@@ -2,3 +2,5 @@ UserSettings
 Assembly-CSharp-Editor-firstpass.csproj
 Assembly-CSharp-firstpass.csproj
 UnityFrustumCulling.sln
+mono_crash.0.0.json
+mono_crash.0.1.json
